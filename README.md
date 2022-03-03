@@ -1,0 +1,8 @@
+# 8472-Bio-ships
+
+
+A mod for Star Ruler 2 that changes the Oko race to only be able to field destroyer type ships with a number of new weapons and a new armor. 
+
+Requires Colonization-Expansion to work that can be found at the following link
+
+ https://github.com/Skeletonxf/star-ruler-2-mod-ce
