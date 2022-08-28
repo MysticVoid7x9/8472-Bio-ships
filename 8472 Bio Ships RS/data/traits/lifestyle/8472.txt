@@ -15,7 +15,6 @@ Trait: 8472
 	TriggerHomeworld(DestroyBuildingAt((4, 3), Undevelop = True))
 	TriggerHomeworld(SpawnBuilding(MotherStalk, (9, 5), Develop = True))
 
-	ReplaceTechnologyNodes(BldMegacity, ImpCivConstructionRate)
 	ReplaceTechnologyNodes(Megacity, Population)
 
 	ForbidSubsystem(CrewControl)
@@ -47,7 +46,7 @@ Trait: 8472
 	ReplaceTechnologyNodes(InfiniteSupport, InfiniteShields)
 	ReplaceTechnologyNodes(SupportCap2, ShieldCap2)
 	ReplaceTechnologyNodes(SupportCap, ShieldCap)
-	ReplaceTechnologyNodes(CarrierHull, ImpShieldReg2)
+	ReplaceTechnologyNodes(CarrierHull, ShieldReg2)
 	ModAttribute(PopulationPerColonizer, Multiply, 16)
 	ModAttribute(ForbidCityConstruction, Add, 1)
 	SetColonizerInfo(#SPORE_SHIP, SporeShip, SporeShip)
