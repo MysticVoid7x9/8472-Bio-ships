@@ -1,0 +1,9 @@
+Support_Lightning_Ray_DESC: <<
+	Fires a Intense discharge of electricity focused at a target.
+
+	[img=Plus]Accurate and instant beam lock-on.[/img]
+	[img=Plus]Low [b][color=#fefc61]supply cost[/color][/b].[/img]
+	[img=Plus]has a wide firing arc[/img]
+	[img=Minus]Ineffective against armor.[/img]
+>>
+Support_Lightning_Ray_NAME: Lightning Ray
