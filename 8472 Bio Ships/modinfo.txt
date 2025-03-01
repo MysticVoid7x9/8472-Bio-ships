@@ -1,8 +1,8 @@
 	Name: 8472 Bio ships
 	Compatibility: 200
-	Derives From: colonisation-expansion
+	Derives From: Colonisation Expansion v1.11
 	Description: <<
 		Adds a slightly changed Oko like race into the game that can only use destroyer type flagships, and has a few new weapons + a armor.
 
-		Requires Colonisation  to work
+		Requires Colonisation 1.11 to work
 	>>
