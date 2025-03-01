@@ -1,8 +1,8 @@
 {
 	"__VERSION__": 1,
-	"name": "Dreadnaught",
+	"name": "Dreadnaught MkI",
 	"size": 32,
-	"hull": "MechanicaFlagLarge",
+	"hull": "MoiraiFlagHuge",
 	"type": "Flagship",
 	"gridWidth": 28,
 	"gridHeight": 23,

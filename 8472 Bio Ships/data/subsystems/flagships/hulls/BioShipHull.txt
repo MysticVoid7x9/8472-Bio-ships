@@ -4,7 +4,7 @@ Subsystem: BioShipHull
 
 	Tags: Applied:Hull, Category:Hulls, NoCore
 	Tags: HeraldsDLC
-	Hull: Flagship, Station
+	Hull: Flagship, Station, Support
 	EvaluationOrder: -200
 	BaseColor: #ff8080
 
